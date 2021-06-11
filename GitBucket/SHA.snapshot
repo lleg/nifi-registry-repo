@@ -243,8 +243,8 @@
           "type" : "OUTPUT_PORT"
         } ],
         "position" : {
-          "x" : -3752.0,
-          "y" : -440.0
+          "x" : -3552.0,
+          "y" : -408.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -264,8 +264,8 @@
           "name" : "CryptographicHashContent",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 759.0000157628548,
-            "y" : 118.99999209023977
+            "x" : 928.0,
+            "y" : 160.0
           },
           "properties" : {
             "hash_algorithm" : "SHA-256",
